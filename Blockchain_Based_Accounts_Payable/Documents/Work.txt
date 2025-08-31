@@ -1,0 +1,64 @@
+
+Seller Block
+--------------------
+
+List All Users And Authorize,
+Add Category,
+Add Sub-Category
+Add Mobile Product Posts,
+Add Other Product Posts,
+View All Mobile Products,
+View All Other Products,
+View Purchased Products,
+Find Total Bill on Purchased Products,
+List All Reviewed On Mobile Posts,
+List All Reviewed On Other Posts,
+List All Search History,
+View All Users product searched,
+View Mobile rank in chart,
+View Other Products rank in chart,
+View product search ratio in chart.
+
+
+Buyer Block
+------------
+
+My Profile,
+Account Management,
+Search Mobile Products,
+Search Other Products,
+View My Search History,
+View All Products,
+View Top K Mobile Products,
+View Top K Other Products.
+
+
+Account Payable Block
+--------------------
+
+My Profile,
+View and Process Order,
+View Purchased Mobile Products By Blockchain,
+View Purchased Other Products By Blockchain.
+
+
+Members
+--------
+
+
+Name,
+Category,
+Sub-Category,
+Price,
+Size,
+Color,
+OS,
+Internal Memory,
+External Memory,
+Mobile Processor,
+Mobile Descrition,
+Rank,
+Rating.
+
+
+
